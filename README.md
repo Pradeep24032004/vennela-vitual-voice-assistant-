@@ -6,3 +6,5 @@ I developed virtual voice assistant using python and by using machine learning.
 ![project22](https://user-images.githubusercontent.com/118010705/213846399-c512a882-afbf-4aac-a143-a2b8e69cb66f.png)
 
 ![project23](https://user-images.githubusercontent.com/118010705/213846456-33388e13-fc24-4cdd-b602-2634b5dd24dd.png)
+
+![project24](https://user-images.githubusercontent.com/118010705/213846607-12e96aef-fd82-431c-90c4-67f129e7a557.png)
